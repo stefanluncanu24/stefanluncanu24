@@ -20,7 +20,7 @@ I'm Stefan, a 21-year-old student from Romania currently pursuing a degree in Ap
   <a href="mailto:stefanluncanu24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/stefan-luncanu-802a961a8/?originalSubdomain=ro" target="_blank">
+  <a href="https://www.linkedin.com/in/stefan-luncanu/?originalSubdomain=ro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
