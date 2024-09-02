@@ -10,8 +10,6 @@ I'm Stefan, a 21-year-old student from Romania currently pursuing a degree in Ap
 
 <div align="center">
  
- 📊⚛️ I'm currently working as a technician at **ELI-NP**, focusing on data analysis tasks.
- 
  🌱 I’m currently learning **ML and DS concepts**
  
  </div>
